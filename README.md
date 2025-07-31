@@ -35,7 +35,8 @@
 ### 📫 Let's Connect
 
 - GitHub: [mwahaj36](https://github.com/mwahaj36)
-- Email: *mwahaj25@gmail.com*  
+- Email: *mwahaj25@gmail.com*
+- LinkedIn: [Muhammad Wahaj](https://www.linkedin.com/in/muhammad-wahaj-723656277/)
 
 ---
 
