@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Wahaj</h1>
-<h3 align="center">I turn ideas into Python-powered projects — with a splash of UI and some old-school assembly.</h3>
-
 ---
 
 ### 🔧 Projects I'm Proud Of
