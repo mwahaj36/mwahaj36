@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Wahaj</h1>
----
 
 ### 🔧 Projects I'm Proud Of
 
