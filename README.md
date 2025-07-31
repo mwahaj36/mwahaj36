@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Wahaj</h1>
+<h3 align="center">I turn ideas into Python-powered projects — with a splash of UI and some old-school assembly.</h3>
 
-<!--
-**mwahaj36/mwahaj36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔧 Projects I'm Proud Of
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌤 **WeatherPeek**  
+  A minimalist system tray weather app built with Python and PyQt, inspired by RunCat.
+
+- 📦 **Pocket Pokédex**  
+  A fun Python GUI that fetches Pokémon data and sprites using the PokéAPI.
+
+- 🎬 **FMDB Frontend**  
+  Built the frontend of a Letterboxd-style app — includes stats, movie tracking, and messaging features.
+
+---
+
+### 💻 Tech I Use
+
+- **Languages:** C++, Python, C, Visual Basic, SQL  
+- **Web & UI:** HTML, CSS, Tailwind CSS, a bit of Next.js  
+- **GUI Frameworks:** PyQt
+
+---
+
+### 🧠 What I'm Learning
+
+- Frontend frameworks like **Next.js**
+- Creating cleaner and more efficient **desktop apps** using **Python & PyQt**
+- Exploring **full-stack** app development and game dev with **Unreal Engine**
+
+---
+
+### 📫 Let's Connect
+
+- GitHub: [mwahaj36](https://github.com/mwahaj36)
+- Email: *mwahaj25@gmail.com*  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mwahaj36&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwahaj36&theme=tokyonight" />
+</p>
+
+---
