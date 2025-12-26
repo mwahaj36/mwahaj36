@@ -5,8 +5,8 @@
 - 🌤 **WeatherPeek**  
   A minimalist system tray weather app built with Python and PyQt, inspired by RunCat.
 
-- 📦 **Pocket Pokédex**  
-  A fun Python GUI that fetches Pokémon data and sprites using the PokéAPI.
+- 📦 **Notii**  
+  A clean web app that sends you smart, sequential email reminders—7 days, 3 days, 2 days, 1 day, and right on the due date—so nothing slips through.
 
 - 🎬 **FMDB Frontend**  
   Built the frontend of a Letterboxd-style app — includes stats, movie tracking, and messaging features.
