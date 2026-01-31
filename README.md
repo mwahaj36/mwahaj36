@@ -37,6 +37,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/mwahaj36?template=classic&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=half-year&languages=1" alt="Wahaj's GitHub Metrics" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwahaj36&theme=tokyonight" alt="Wahaj's Summary" />
+</p>
