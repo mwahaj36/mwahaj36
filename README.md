@@ -28,18 +28,9 @@
 
 ---
 
-### 🧠 Currently Exploring
-
-I'm moving beyond basic scripts into complex systems:
-* **Modern Frontend:** Deep diving into **Next.js** for reactive, fast web apps.
-* **Native Performance:** Refining efficient desktop applications with **Python & PyQt**.
-* **The Intersection:** Experimenting with **AI and Cybersecurity** integration.
-
----
-
 ### 📫 Connect
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/muhammad-wahaj-723656277" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Wahaj" /></a>
 <a href="mailto:mwahaj25@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="mwahaj25@gmail.com" /></a>
 </p>
