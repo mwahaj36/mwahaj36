@@ -24,7 +24,7 @@
 | **Languages** | Python, C++, C, SQL, Visual Basic |
 | **Frontend** | Next.js, Tailwind CSS, HTML/CSS |
 | **Desktop / GUI** | PyQt |
-| **Tools & Engines** | Unreal Engine, Git |
+| **Tools & Engines** | Git |
 
 ---
 
