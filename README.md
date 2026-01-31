@@ -38,5 +38,5 @@
 <br />
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/mwahaj36?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&config.timezone=Asia%2FKarachi" alt="Wahaj's Metrics" />
+  <img src="https://metrics.lecoq.io/mwahaj36?template=classic&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=half-year&languages=1" alt="Wahaj's GitHub Metrics" />
 </div>
