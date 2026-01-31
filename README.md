@@ -37,6 +37,6 @@
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwahaj36&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://metrics.lecoq.io/mwahaj36?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&config.timezone=Asia%2FKarachi" alt="Wahaj's Metrics" />
+</div>
