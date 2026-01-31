@@ -1,47 +1,51 @@
-<h1 align="center">Hi 👋, I'm Wahaj</h1>
-
-### 🔧 Projects I'm Proud Of
-
-- 🌤 **WeatherPeek**  
-  A minimalist system tray weather app built with Python and PyQt, inspired by RunCat.
-
-- 📦 **Notii**  
-  A clean web app that sends you smart, sequential email reminders—7 days, 3 days, 2 days, 1 day, and right on the due date—so nothing slips through.
-
-- 🎬 **FMDB Frontend**  
-  Built the frontend of a Letterboxd-style app — includes stats, movie tracking, and messaging features.
-
----
-
-### 💻 Tech I Use
-
-- **Languages:** C++, Python, C, Visual Basic, SQL  
-- **Web & UI:** HTML, CSS, Tailwind CSS, a bit of Next.js  
-- **GUI Frameworks:** PyQt
-
----
-
-### 🧠 What I'm Learning
-
-- Frontend frameworks like **Next.js**
-- Creating cleaner and more efficient **desktop apps** using **Python & PyQt**
-- Exploring **full-stack** app development and game dev with **Unreal Engine**
-
----
-
-### 📫 Let's Connect
-
-- GitHub: [mwahaj36](https://github.com/mwahaj36)
-- Email: *mwahaj25@gmail.com*
-- LinkedIn: [Muhammad Wahaj](https://www.linkedin.com/in/muhammad-wahaj-723656277/)
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Hi, I'm Wahaj 👋</h1>
+<h3 align="center">Computer Science Student @ FAST-NU</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwahaj36&show_icons=true&theme=tokyonight" />
-  <br />
+  Building clean desktop apps and exploring the chaos of full-stack development.
 </p>
 
+<br/>
+
+### 🔧 What I've Built
+
+- **📦 [Notii](https://notii.online)** An app designed to annoy you into success. It sends smart, sequential email reminders (7 days, 3 days, 1 day, Due Date) so tasks strictly cannot slip through the cracks.
+
+- **🌤 [WeatherPeek](https://github.com/mwahaj36/weatherpeek)** A minimalist system tray weather widget built with **Python & PyQt**. Inspired by RunCat, it stays out of your way until you need it.
+
+- **🎬 FMDB Frontend** A Letterboxd-style movie tracking platform. I handled the frontend logic for stats, logging, and user messaging features.
+
 ---
+
+### 💻 The Stack
+
+| Domain | Tech |
+| :--- | :--- |
+| **Languages** | Python, C++, C, SQL, Visual Basic |
+| **Frontend** | Next.js, Tailwind CSS, HTML/CSS |
+| **Desktop / GUI** | PyQt |
+| **Tools & Engines** | Unreal Engine, Git |
+
+---
+
+### 🧠 Currently Exploring
+
+I'm moving beyond basic scripts into complex systems:
+* **Modern Frontend:** Deep diving into **Next.js** for reactive, fast web apps.
+* **Native Performance:** Refining efficient desktop applications with **Python & PyQt**.
+* **The Intersection:** Experimenting with **AI and Cybersecurity** integration.
+
+---
+
+### 📫 Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/muhammad-wahaj-723656277" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Wahaj" /></a>
+<a href="mailto:mwahaj25@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="mwahaj25@gmail.com" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mwahaj36&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
