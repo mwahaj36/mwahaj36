@@ -11,7 +11,7 @@
 
 - **📦 [Notii](https://notii.online)** An app designed to annoy you into success. It sends smart, sequential email reminders (7 days, 3 days, 1 day, Due Date) so tasks strictly cannot slip through the cracks.
 
-- **🌤 [WeatherPeek](https://github.com/mwahaj36/weatherpeek)** A minimalist system tray weather widget built with **Python & PyQt**. Inspired by RunCat, it stays out of your way until you need it.
+- **🌤 [WeatherPeek](https://github.com/mwahaj36/Weather-Peek)** A minimalist system tray weather widget built with **Python & PyQt**. Inspired by RunCat, it stays out of your way until you need it.
 
 - **🎬 FMDB Frontend** A Letterboxd-style movie tracking platform. I handled the frontend logic for stats, logging, and user messaging features.
 
