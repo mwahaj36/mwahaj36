@@ -7,13 +7,19 @@
 
 <br/>
 
-### 🔧 What I've Built
+### 🔧 My Projects
 
-- **📦 [Notii](https://notii.online)** An app designed to annoy you into success. It sends smart, sequential email reminders (7 days, 3 days, 1 day, Due Date) so tasks strictly cannot slip through the cracks.
+- **📦 [Notii](https://github.com/mwahaj36/notii)** — A Sequential Reminder System designed to annoy you into success. It sends smart, sequential email reminders (7 days, 3 days, 1 day, Due Date) so tasks strictly cannot slip through.
 
-- **🌤 [WeatherPeek](https://github.com/mwahaj36/Weather-Peek)** A minimalist system tray weather widget built with **Python & PyQt**. Inspired by RunCat, it stays out of your way until you need it.
+- **🎬 [FMDB (Fast Movie Database)](https://github.com/mwahaj36/CL2005-DatabaseSystemsLab-Project-FMDb)** — Semester 4 Database Systems Lab Project. A Letterboxd-style movie tracking platform with comprehensive database design and full-stack implementation.
+  
+- **🐏 [RAM_Chomper](https://github.com/mwahaj36/RAM_Chomper)** — Ever realized we never use our complete RAM? A utility that helps maximize your system resources.
 
-- **🎬 FMDB Frontend** A Letterboxd-style movie tracking platform. I handled the frontend logic for stats, logging, and user messaging features.
+- **🌤 [WeatherPeek](https://github.com/mwahaj36/Weather-Peek)** — A lightweight Python system tray app that shows your current weather with dynamic icons and live updates. Inspired by RunCat, it stays out of your way until you need it.
+
+- **💼 [Jobless](https://github.com/mwahaj36/jobless)** — A Chrome extension that censors job & career buzzwords from LinkedIn, keeping your feed clean and focused.
+
+- **🎮 [Pocket-Pokedex](https://github.com/mwahaj36/Pocket-Pokedex)** — A lightweight desktop app built with Python and PyQt5 that lets you search for any Pokémon using the PokeAPI. Displays stats, types, and official sprite images in a neat, responsive interface.
 
 ---
 
