@@ -11,6 +11,8 @@
 
 - **📦 [Notii](https://notii.online)** — A Sequential Reminder System designed to annoy you into success. Sends smart sequential email reminders (7 days, 3 days, 1 day, Due Date) Built around FAST-NU assignments.
 
+- **🎨 [pix2pixzero-lora](https://github.com/mwahaj36/pix2pixzero-lora)** — Zero-shot image-to-image translation using pix2pix and LoRA fine-tuning for controlled style transfer without paired training data.
+
 - **🎬 [FMDB](https://github.com/mwahaj36/CL2005-DatabaseSystemsLab-Project-FMDb)** — Semester 4 Database Systems Lab Project. A Letterboxd-style movie tracking platform.
 
 - **🐏 [RAM_Chomper](https://github.com/mwahaj36/RAM_Chomper)** — A utility that helps maximize your system RAM resources.
@@ -21,7 +23,6 @@
 
 - **🎮 [Pocket-Pokedex](https://github.com/mwahaj36/Pocket-Pokedex)** — A lightweight desktop Pokédex built with Python and PyQt5.
 
-- **🎨 [pix2pixzero-lora](https://github.com/mwahaj36/pix2pixzero-lora)** — Zero-shot image-to-image translation using pix2pix and LoRA fine-tuning for controlled style transfer without paired training data.
 
 ---
 
