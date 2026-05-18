@@ -11,7 +11,7 @@
 
 - **📦 [Notii](https://notii.online)** — A Sequential Reminder System designed to annoy you into success. Sends smart sequential email reminders (7 days, 3 days, 1 day, Due Date) Built around FAST-NU assignments.
 
-- **🎨 [pix2pixzero-lora]([https://github.com/mwahaj36/pix2pixzero-lora](https://github.com/mwahaj36/Pix2Pix-Zero-LoRA))** — Zero-shot image-to-image translation using pix2pix and LoRA fine-tuning for controlled style transfer without paired training data.
+- **🎨 [pix2pixzero-lora](https://github.com/mwahaj36/Pix2Pix-Zero-LoRA)** — high-performance framework designed for researchers and artists who need to perform zero-shot image editing while enforcing specific artistic aesthetics.
 
 - **🎬 [FMDB](https://github.com/mwahaj36/CL2005-DatabaseSystemsLab-Project-FMDb)** — Semester 4 Database Systems Lab Project. A Letterboxd-style movie tracking platform.
 
