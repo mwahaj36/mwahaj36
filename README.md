@@ -1,55 +1,54 @@
-<h1 align="center">Hi, I'm Wahaj 👋</h1>
-<h3 align="center">Computer Science Student @ FAST-NU</h3>
+<h1 align="center">Muhammad Wahaj</h1>
+<h3 align="center">CS Student @ FAST-NUCES Lahore</h3>
 <p align="center">
-  Building AI-powered systems and exploring the chaos of full-stack development.
+  Building AI systems and full-stack applications.
 </p>
-<br/>
-
-### 🔧 My Projects
-
-- **🌌 [Subtext](https://sbtxt.vercel.app)** — A semantic movie discovery engine that maps 100,000+ films into navigable 3D space. Search by mood and atmosphere, get results personalized to your taste.
-
-- **📦 [Notii](https://notii.online)** — A Sequential Reminder System designed to annoy you into success. Sends smart sequential email reminders (7 days, 3 days, 1 day, Due Date) Built around FAST-NU assignments.
-
-- **🎨 [pix2pixzero-lora](https://github.com/mwahaj36/Pix2Pix-Zero-LoRA)** — high-performance framework designed for researchers and artists who need to perform zero-shot image editing while enforcing specific artistic aesthetics.
-
-- **🎬 [FMDB](https://github.com/mwahaj36/CL2005-DatabaseSystemsLab-Project-FMDb)** — Semester 4 Database Systems Lab Project. A Letterboxd-style movie tracking platform.
-
-- **🐏 [RAM_Chomper](https://github.com/mwahaj36/RAM_Chomper)** — A utility that helps maximize your system RAM resources.
-
-- **🌤 [WeatherPeek](https://github.com/mwahaj36/Weather-Peek)** — A lightweight Python system tray app showing current weather with dynamic icons and live updates.
-
-- **💼 [Jobless](https://github.com/mwahaj36/jobless)** — A Chrome extension that censors job buzzwords from your LinkedIn feed.
-
-- **🎮 [Pocket-Pokedex](https://github.com/mwahaj36/Pocket-Pokedex)** — A lightweight desktop Pokédex built with Python and PyQt5.
-
 
 ---
 
-### 💻 The Stack
+### Projects
+
+- **[Sbtxt](https://sbtxt.vercel.app)** — Semantic movie discovery engine indexing 100,000+ films with dense vector embeddings and a three-stage hybrid retrieval pipeline. Search by mood and context, results personalized to your taste via a weighted Taste DNA profile. Built with FastAPI, Next.js, AstraDB, and WebGL.
+
+- **[Notii](https://notii.online)** — Full-stack productivity app with sequential reminders, Google Classroom email parsing for automatic task imports, and shareable task boards. Released as a PWA and Android app.
+
+- **[RamChomper](https://github.com/mwahaj36/RAM_Chomper)** — Configurable RAM allocation tool that monitors memory usage and auto-releases with an audio alert when capacity drops below 15%.
+
+- **[WeatherPeek](https://github.com/mwahaj36/Weather-Peek)** — Minimal Windows system-tray app showing live weather icon and exact conditions on hover.
+
+- **[Jobless](https://github.com/mwahaj36/jobless)** — Chrome extension that blurs job-related keywords on LinkedIn to cut distractions during semester.
+
+- **[FMDB](https://github.com/mwahaj36/CL2005-DatabaseSystemsLab-Project-FMDb)** — Letterboxd-style movie tracking platform built as a database systems project.
+
+- **[Pocket Pokedex](https://github.com/mwahaj36/Pocket-Pokedex)** — Lightweight desktop Pokedex built with Python and PyQt5.
+
+---
+
+### Stack
 
 | Domain | Tech |
 | :--- | :--- |
-| **Languages** | Python, C++, C, SQL, JavaScript |
-| **AI / ML** | Sentence Transformers, Vector Embeddings, Semantic Search |
-| **Frontend** | Next.js, Tailwind CSS, HTML/CSS |
-| **Backend** | FastAPI, PostgreSQL, AstraDB |
-| **Desktop / GUI** | PyQt |
-| **Tools** | Git, Docker, Vercel |
+| **Languages** | Python, JavaScript, TypeScript, C, C++, SQL |
+| **AI / ML** | Vector Embeddings, NLP Pipelines, Semantic Search, UMAP, Jina AI, AstraDB |
+| **Frontend** | Next.js, React, Tailwind CSS, WebGL |
+| **Backend** | FastAPI, Node.js, Express.js, PostgreSQL, MongoDB |
+| **Tools** | Git, Figma, Vercel, Bash |
 
 ---
 
-### 📫 Connect
+### Connect
+
 <p align="center">
-<a href="https://linkedin.com/in/muhammad-wahaj-723656277" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/mwahaj36" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mwahaj25@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<br />
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwahaj36&theme=tokyonight" alt="Wahaj's Summary" />
-</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mwahaj36&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=review,prs_merged&hide=stars,issues&cache_seconds=1)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mwahaj36&theme=cobalt&hide_border=true&cache_seconds=1)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mwahaj36&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&hide=cmake,makefile,css&cache_seconds=1)
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mwahaj36&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=review,prs_merged&hide=stars,issues&cache_seconds=1" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwahaj36&theme=cobalt&hide_border=true&cache_seconds=1" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwahaj36&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&hide=cmake,makefile,css&cache_seconds=1" />
+</p>
