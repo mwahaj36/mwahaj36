@@ -8,9 +8,11 @@
 
 ### Projects
 
-- **[Sbtxt](https://sbtxt.vercel.app)** — Semantic movie discovery engine indexing 100,000+ films with dense vector embeddings and a three-stage hybrid retrieval pipeline. Search by mood and context, results personalized to your taste via a weighted Taste DNA profile. Built with FastAPI, Next.js, AstraDB, and WebGL.
+- **[roBOTcheck](https://github.com/mwahaj36/roBOTcheck)** — Advanced bot detection system using behavioral analysis and machine learning to identify automated threats in real-time.
 
-- **[Notii](https://notii.online)** — Full-stack productivity app with sequential reminders, Google Classroom email parsing for automatic task imports, and shareable task boards. Released as a PWA and Android app.
+- **[Sbtxt](https://sbtxt.vercel.app)** — Semantic movie discovery engine indexing 100,000+ films with dense vector embeddings and a three-stage hybrid retrieval pipeline. Search by mood and context[...]
+
+- **[Notii](https://notii.online)** — Full-stack productivity app with sequential reminders, Google Classroom email parsing for automatic task imports, and shareable task boards. Released as a PWA a[...]
 
 - **[RamChomper](https://github.com/mwahaj36/RAM_Chomper)** — Configurable RAM allocation tool that monitors memory usage and auto-releases with an audio alert when capacity drops below 15%.
 
@@ -46,9 +48,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwahaj36&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=review,prs_merged&hide=stars,issues&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mwahaj36&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=review,prs_merged&hide=stars,iss[...]
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwahaj36&theme=cobalt&hide_border=true&cache_seconds=1" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwahaj36&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&hide=cmake,makefile,css&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwahaj36&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&hide=cmake,makefile,[...]
 </p>
