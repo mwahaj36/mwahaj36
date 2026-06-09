@@ -8,7 +8,7 @@
 
 ### Projects
 
-- **[roBOTcheck](https://github.com/mwahaj36/roBOTcheck)** — Advanced bot detection system using behavioral analysis and machine learning to identify automated threats in real-time.
+- **[roBOTcheck](https://github.com/mwahaj36/roBOTcheck)** —  Bot detection system using behavioral analysis and machine learning to identify automated threats in real-time.
 
 - **[Sbtxt](https://sbtxt.vercel.app)** — Semantic movie discovery engine indexing 100,000+ films with dense vector embeddings and a three-stage hybrid retrieval pipeline. Search by mood and context[...]
 
@@ -34,7 +34,7 @@
 | **AI / ML** | Vector Embeddings, NLP Pipelines, Semantic Search, UMAP, Jina AI, AstraDB |
 | **Frontend** | Next.js, React, Tailwind CSS, WebGL |
 | **Backend** | FastAPI, Node.js, Express.js, PostgreSQL, MongoDB |
-| **Tools** | Git, Figma, Vercel, Bash |
+| **Tools** | Git, Figma, Vercel, Bash, Agile, Docker |
 
 ---
 
